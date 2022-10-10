@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:50px;"><a href="https://securefiles.cf">Secure Files</a></h1>  
+<h1 align="center" style="font-size:50px;"><a href="https://securefiles.cf">Secure Files Share</a></h1>  
 
 Secure Files is a simple, lightweight, and fast file sharing service. It is written in Javascript and uses the [Firebase](https://firebase.google.com/) platform.
 
@@ -23,11 +23,6 @@ Secure Files is a simple, lightweight, and fast file sharing service. It is writ
 - This way the file is shared securely.
 
 ## How to use
-
-<a href="https://securefiles.cf"><img src="https://raw.githubusercontent.com/Harsh-2002/FileHosting/main/screely-1665385837607.png?token=GHSAT0AAAAAABY4KVAYPSS4YHKG5KIZ6NSCY2D2XBA" width=300px height=400px align="center"/></a>
-<!-- ![frame_generic_dark (12)](https://raw.githubusercontent.com/Harsh-2002/FileHosting/main/screely-1665385837607.png?token=GHSAT0AAAAAABY4KVAYPSS4YHKG5KIZ6NSCY2D2XBA) -->
-
-
 
 - Visit [Secure Files](https://securefiles.cf/).
 - Upload a file.
