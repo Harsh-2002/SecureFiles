@@ -1,12 +1,12 @@
 const firebaseConfig = {
   // Add your firebase config here
-  apiKey: "AIzaSyDa0CTeCyxWZrkPfv0mVR9SFKcWhgR_2Js",
-  authDomain: "filesharing-8717e.firebaseapp.com",
-  databaseURL: "https://filesharing-8717e-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "filesharing-8717e",
-  storageBucket: "filesharing-8717e.appspot.com",
-  messagingSenderId: "6109631180",
-  appId: "1:6109631180:web:ac635cde8eaa224718e869"
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  databaseURL: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   };
 
 // Initialize Firebase
@@ -126,11 +126,11 @@ function showimage(){
     }
     );
     // After some time if flag is still 0 then show alert
-    setTimeout(function(){
+   // setTimeout(function(){
         
-    if(flag == 0){
-    alert(" ❌ File not found. ➡️Please enter a Valid Unique Id.");
-    }
-     }, 500);
+    //if(flag == 0){
+    //alert(" ❌ File not found. ➡️Please enter a Valid Unique Id.");
+    //}
+    // }, 500);
     // A Project by Anurag Vishwakarma
 }
