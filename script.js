@@ -125,12 +125,12 @@ function showimage(){
         });
     }
     );
-    // After some time if flag is still 0 then show alert
-   // setTimeout(function(){
+   //After some time if flag is still 0 then show alert
+   setTimeout(function(){
         
-    //if(flag == 0){
-    //alert(" ❌ File not found. ➡️Please enter a Valid Unique Id.");
-    //}
-    // }, 500);
+    if(flag == 0){
+    alert(" ❌ File not found. ➡️Please enter a Valid Unique Id.");
+    }
+    }, 500);
     // A Project by Anurag Vishwakarma
 }
