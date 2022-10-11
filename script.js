@@ -1,12 +1,12 @@
 const firebaseConfig = {
   // Add your firebase config here
-  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  databaseURL: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  apiKey: "AIzaSyDa0CTeCyxWZrkPfv0mVR9SFKcWhgR_2Js",
+  authDomain: "filesharing-8717e.firebaseapp.com",
+  databaseURL: "https://filesharing-8717e-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "filesharing-8717e",
+  storageBucket: "filesharing-8717e.appspot.com",
+  messagingSenderId: "6109631180",
+  appId: "1:6109631180:web:ac635cde8eaa224718e869"
   };
 
 // Initialize Firebase
